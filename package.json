@@ -17,7 +17,6 @@
     "url": "https://github.com/benjamn/immutable-tuple/issues"
   },
   "main": "dist/tuple.js",
-  "module": "dist/tuple.mjs",
   "scripts": {
     "test": "mocha --require reify --full-trace --reporter spec test/tests.js",
     "docs": "docco src/*.js",
